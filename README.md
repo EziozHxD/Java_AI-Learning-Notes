@@ -14,7 +14,7 @@
 ## 🛠️ 环境配置
 
 - **JDK 版本**: JDK 25+
-- **开发工具**: IntelliJ IDEA / VS Code
+- **开发工具**: IntelliJ IDEA
 - **构建工具**: **
 
 ## 🏃 如何运行
