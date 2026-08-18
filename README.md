@@ -8,6 +8,7 @@
 
 - [HelloWorld.java](./HelloWorld.java) - 🎉 第一个 Java 程序，输出 "Hello, World!"
 - [LiteralDemo1.java](./LiteralDemo1.java) - 📝 学习字面量，演示基础输出
+- [VariableDemo1.java](./VariableDemo1.java) - 🔢 理解变量、赋值逻辑
 - `src/` (待创建) - 后续将按章节整理的源代码目录
 - `docs/` (待创建) - 学习笔记与文档
 
@@ -15,7 +16,7 @@
 
 - **JDK 版本**: JDK 25+
 - **开发工具**: IntelliJ IDEA
-- **构建工具**: **
+- **构建工具**: 展无
 
 ## 🏃 如何运行
 
