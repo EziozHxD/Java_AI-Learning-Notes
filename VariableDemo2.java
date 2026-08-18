@@ -2,11 +2,11 @@ package com.Ezio.variable;
 
 public class VariableDemo2 {
     public static void main(String[] args) {
-        /*我方使用英雄a         对方使用英雄b
+      /*我方使用英雄a         对方使用英雄b
         攻击力：120           攻击力：350
         防御力：200           防御力：60
         技能倍率：1.5         技能倍率：2.5
-        血量：2000.5            血量：1100.5
+        血量：2000.5          血量：1100.5
 
         普通攻击伤害公式：攻击力 - 对方防御力
         技能伤害公式：攻击力 * 技能倍率 - 对方防御力
