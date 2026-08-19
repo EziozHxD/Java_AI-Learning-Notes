@@ -18,6 +18,9 @@
 - [VariableDemo2.java](./VariableDemo2.java) - ⚔️ 变量练习：回合制游戏伤害计算
 - [VariableDemo3.java](./VariableDemo3.java) - 🧱 8种基本数据类型
 - [VariableDemo4.java](./VariableDemo4.java) - ⚔️ 变量练习：BMI身体质量指数计算
+- [VariableDemo5.java](./VariableDemo5.java) - 🔑 初识Scanner核心用法
+- [VariableDemo6.java](./VariableDemo6.java) - ⚔️ Scanner练习：键盘输入两数求和
+- [VariableDemo7.java](./VariableDemo7.java) - ⚔️ Scanner练习：优化版BMI身体质量指数计算
 - `src/` (待创建) - 后续将按章节整理的源代码目录
 - `docs/` (待创建) - 学习笔记与文档
 
