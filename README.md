@@ -1,10 +1,14 @@
 # ☕ 我的 Java 从零开始学习仓库
 
-> 🚀 **从零基础到入土**
+## 📚 项目简介
+
+🚀从零基础到入土
+本仓库是我从零开始学习 **Java 编程语言** 的记录，从最基础的语法开始，逐步深入。
+一个零基础小白的 Java 入门之旅，用代码记录每一步成长，上传GitHub作为前行的动力。
 
 ## 📂 项目结构
 
-这里存放着我学习 Java 过程中的代码和笔记：
+这里存放着我学习 Java 过程中的代码：
 
 - [HelloWorld.java](./HelloWorld.java) - 🎉 输出 "Hello, World!"
 - [LiteralDemo1.java](./LiteralDemo1.java) - 📝 学习字面量，演示基础输出
