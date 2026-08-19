@@ -6,9 +6,10 @@
 
 这里存放着我学习 Java 过程中的代码和笔记：
 
-- [HelloWorld.java](./HelloWorld.java) - 🎉 第一个 Java 程序，输出 "Hello, World!"
+- [HelloWorld.java](./HelloWorld.java) - 🎉 输出 "Hello, World!"
 - [LiteralDemo1.java](./LiteralDemo1.java) - 📝 学习字面量，演示基础输出
 - [VariableDemo1.java](./VariableDemo1.java) - 🔢 理解变量、赋值逻辑
+- [VariableDemo2.java](./VariableDemo2.java) - ⚔️ 变量练习：回合制游戏伤害计算
 - `src/` (待创建) - 后续将按章节整理的源代码目录
 - `docs/` (待创建) - 学习笔记与文档
 
