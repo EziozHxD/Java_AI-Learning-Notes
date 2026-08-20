@@ -20,7 +20,9 @@
 - [VariableDemo4.java](./VariableDemo4.java) - ⚔️ 变量练习：BMI身体质量指数计算
 - [VariableDemo5.java](./VariableDemo5.java) - 🔑 初识Scanner核心用法
 - [VariableDemo6.java](./VariableDemo6.java) - ⚔️ Scanner练习：键盘输入两数求和
-- [VariableDemo7.java](./VariableDemo7.java) - ⚔️ Scanner练习：优化版BMI身体质量指数计算
+- [OperatorDemo1.java](./OperatorDemo1.java) - 📐 算术运算符基础
+- [OperatorDemo2.java](./OperatorDemo2.java) - ⚔️ 运算符练习：三位数拆分
+- [OperatorDemo3.java](./OperatorDemo3.java) - ⚔️ 运算符练习：秒数转时分秒
 - `src/` (待创建) - 后续将按章节整理的源代码目录
 - `docs/` (待创建) - 学习笔记与文档
 
