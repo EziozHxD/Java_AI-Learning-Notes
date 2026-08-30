@@ -16,28 +16,28 @@
 ## 📂 项目结构
 
 ```text
-- `Java_AI-Learning-Notes/`
-  - `src/`
-    - `com.Ezio/`
-      - `literal/`  # 字面量基础
-        - [LiteralDemo1.java](src/com/Ezio/literal/LiteralDemo1.java)
-      - `operator/`  # 运算符与练习
-        - [OperatorDemo1.java](src/com/Ezio/operator/OperatorDemo1.java)  # 算术运算符基础
-        - [OperatorDemo2.java](src/com/Ezio/operator/OperatorDemo2.java)  # 三位数拆分练习
-        - [OperatorDemo3.java](src/com/Ezio/operator/OperatorDemo3.java)  # 秒数转时分秒
-        - [OperatorDemo4.java](src/com/Ezio/operator/OperatorDemo4.java)  # 类型转换详解
-        - [OperatorDemo5.java](src/com/Ezio/operator/OperatorDemo5.java)  # 逻辑运算符
-        - [OperatorDemo6.java](src/com/Ezio/operator/OperatorDemo6.java)  # 位运算符
-      - `variable/`  # 变量与数据类型
-        - [VariableDemo1.java](src/com/Ezio/variable/VariableDemo1.java)  # 变量与赋值理念
-        - [VariableDemo2.java](src/com/Ezio/variable/VariableDemo2.java)  # 回合制游戏伤害计算
-        - [VariableDemo3.java](src/com/Ezio/variable/VariableDemo3.java)  # 8种基本数据类型
-        - [VariableDemo4.java](src/com/Ezio/variable/VariableDemo4.java)  # BMI 指数计算
-        - [VariableDemo5.java](src/com/Ezio/variable/VariableDemo5.java)  # Scanner 核心用法
-        - [VariableDemo6.java](src/com/Ezio/variable/VariableDemo6.java)  # 键盘输入两数求和
-        - [VariableDemo7.java](src/com/Ezio/variable/VariableDemo7.java)  # BMI 指数计算（优化版）
-  - `.gitignore`
-  - `README.md`
+Java_AI-Learning-Notes/
+├── src/
+│   └── com.Ezio/
+│       ├── literal/              # 字面量基础
+│       │   └── LiteralDemo1.java
+│       ├── operator/             # 运算符与练习
+│       │   ├── OperatorDemo1.java    # 算术运算符基础
+│       │   ├── OperatorDemo2.java    # 三位数拆分练习
+│       │   ├── OperatorDemo3.java    # 秒数转时分秒
+│       │   ├── OperatorDemo4.java    # 类型转换详解
+│       │   ├── OperatorDemo5.java    # 逻辑运算符
+│       │   └── OperatorDemo6.java    # 位运算符
+│       └── variable/             # 变量与数据类型
+│           ├── VariableDemo1.java    # 变量与赋值理念
+│           ├── VariableDemo2.java    # 回合制游戏伤害计算
+│           ├── VariableDemo3.java    # 8种基本数据类型
+│           ├── VariableDemo4.java    # BMI 指数计算
+│           ├── VariableDemo5.java    # Scanner 核心用法
+│           ├── VariableDemo6.java    # 键盘输入两数求和
+│           └── VariableDemo7.java    # BMI 指数计算（优化版）
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -82,18 +82,18 @@ java com.Ezio.variable.VariableDemo1
 
 | 阶段 | 学习内容 | 对应文件 |
 |:---|:---|:---|
-| 1 | 变量与赋值理念 | `VariableDemo1.java` |
-| 2 | 8种基本数据类型 | `VariableDemo3.java` |
-| 3 | 回合制游戏变量练习 | `VariableDemo2.java` |
-| 4 | BMI 指数计算 | `VariableDemo4.java` |
-| 5 | 字面量基础输出 | `LiteralDemo1.java` |
-| 6 | 算术运算符基础 | `OperatorDemo1.java` |
-| 7 | 三位数拆分练习 | `OperatorDemo2.java` |
-| 8 | 秒数转时分秒 | `OperatorDemo3.java` |
-| 9 | 类型转换详解 | `OperatorDemo4.java` |
-| 10 | Scanner 核心用法 | `VariableDemo5.java` |
-| 11 | 键盘输入两数求和 | `VariableDemo6.java` |
-| 12 | BMI 指数计算（优化版） | `VariableDemo7.java` |
+| 1 | 变量与赋值理念 | [VariableDemo1.java](src/com/Ezio/variable/VariableDemo1.java) |
+| 2 | 8种基本数据类型 | [VariableDemo3.java](src/com/Ezio/variable/VariableDemo3.java) |
+| 3 | 回合制游戏变量练习 | [VariableDemo2.java](src/com/Ezio/variable/VariableDemo2.java) |
+| 4 | BMI 指数计算 | [VariableDemo4.java](src/com/Ezio/variable/VariableDemo4.java) |
+| 5 | 字面量基础输出 | [LiteralDemo1.java](src/com/Ezio/literal/LiteralDemo1.java) |
+| 6 | 算术运算符基础 | [OperatorDemo1.java](src/com/Ezio/operator/OperatorDemo1.java) |
+| 7 | 三位数拆分练习 | [OperatorDemo2.java](src/com/Ezio/operator/OperatorDemo2.java) |
+| 8 | 秒数转时分秒 | [OperatorDemo3.java](src/com/Ezio/operator/OperatorDemo3.java) |
+| 9 | 类型转换详解 | [OperatorDemo4.java](src/com/Ezio/operator/OperatorDemo4.java) |
+| 10 | Scanner 核心用法 | [VariableDemo5.java](src/com/Ezio/variable/VariableDemo5.java) |
+| 11 | 键盘输入两数求和 | [VariableDemo6.java](src/com/Ezio/variable/VariableDemo6.java) |
+| 12 | BMI 指数计算（优化版） | [VariableDemo7.java](src/com/Ezio/variable/VariableDemo7.java) |
 
 ---
 
