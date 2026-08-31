@@ -22,5 +22,8 @@ public class OperatorDemo3 {
         // 4.获取秒数
         int Second = seconds % 3600 % 60;
         System.out.println("秒数是：" + Second);
+
+        // 5.用字符串拼接的方式输出
+        System.out.println("时间是：" + hours + "小时" + minutes + "分钟" + Second + "秒");
     }
 }
